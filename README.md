@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najam-nasr&label=Profile%20views&color=0e75b6&style=flat" alt="najam-nasr" /> </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+-  I’m currently learning **Data Structures**
 
-- 💬 Ask me about **C and C++**
+-  Ask me about **C, Assembly Language and C++**
 
-- 📫 How to reach me **najamnasr@gmail.com**
+-  How to reach me **najamnasr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
