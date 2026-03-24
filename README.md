@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najam-nasr&label=Profile%20views&color=0e75b6&style=flat" alt="najam-nasr" /> </p>
 
--  I’m currently learning **Data Structures**
+-  I’m currently learning **Data Structures and Artificial Intelligence**
 
 -  Ask me about **C, Assembly Language and C++**
 
